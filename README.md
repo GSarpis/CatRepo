@@ -1,3 +1,5 @@
+![Image](cat.jpg)
+
 ## Welcome to Cat Project Page
 
 Special page for cat projects... and other cat related activities
