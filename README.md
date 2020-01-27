@@ -6,6 +6,10 @@ Special page for cat projects... and other cat related activities
 
 You can use the [editor on GitHub](https://github.com/GSarpis/CatRepo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.iles.
 
+### Your favorite topic
+Education
+[Link](https://en.wikipedia.org/wiki/Education)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
